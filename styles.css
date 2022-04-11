@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background: url(https://pixabay.com/get/ga1f652134bd40f416b5f071f328bf8e52c31797903835c3feb5dfb0ee918789fd93bcab5fd64d492a0f95fcdf3c4a0f2bb61f7bcc0452cadb4f4d3ba1ef7cbb93efb98f54db618c6ae0edf71cfc791c3_1920.jpg);
+    background-size: cover;
+}
+body {
+    margin: 0;
+    padding: 0; 
+}
+h1 {
+    color: black;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
