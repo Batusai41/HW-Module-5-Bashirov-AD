@@ -8,7 +8,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background: url('https://unsplash.com/photos/g2MossmxZNs/download?force=true&w=1920') bottom no-repeat;
+    background: url('https://unsplash.com/photos/f-kxL9J0K_w/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MzgxfHxoYXJkd2FyZXxlbnwwfHx8fDE2NTAxOTc0MjU&force=true') bottom no-repeat;
     background-size: cover;
 }
 
@@ -18,9 +18,9 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-.news {
-    background-color: antiquewhite;
+.news li:nth-child(even) {
     padding: 50px 0 32px;
+    background-color: wheat;
 }
 
 article {
