@@ -23,7 +23,7 @@ h1 {
     background-color: wheat;
 }
 
-.new::before {  
+.new::before {
     content: "New";
     color: brown;
     font-style: italic;
@@ -72,7 +72,7 @@ footer .links {
     margin-bottom: 20px;
 }
 
-footer .links > a {
+footer .links>a {
     color: brown;
     padding: 0 25px;
     font-size: 13px;
@@ -83,6 +83,6 @@ footer .links > a {
 }
 
 .copiright {
-color: rgb(108, 117, 125);
-font-family: 'Times New Roman', Times, serif;
+    color: rgb(108, 117, 125);
+    font-family: 'Times New Roman', Times, serif;
 }
